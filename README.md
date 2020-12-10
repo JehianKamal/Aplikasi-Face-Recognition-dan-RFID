@@ -36,6 +36,7 @@ Aplikasi ini merupakan sistem peminjaman buku pada perpustakaan menggunakan Face
 12. pip install opencv-python<br />
 13. pip install sqlite3<br />
 14. pip install pickle<br />
+15. pip install opencv-contrib-python<br />
 
 ### Cara menggunakan:<br />
 1. Tambah data buku:<br />
