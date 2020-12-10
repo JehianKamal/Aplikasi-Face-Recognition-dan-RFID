@@ -1,6 +1,6 @@
 # Aplikasi-Face-Recognition-dan-RFID
 
-Aplikasi ini merupakan sistem peminjaman buku pada perpustakaan menggunakan Face Reccognition dan RFID
+Aplikasi ini merupakan sistem peminjaman buku pada perpustakaan menggunakan Face Reccognition dan RFID.
 
 ### Tools:<br />
 1. Arduino IDE <br />
