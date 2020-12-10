@@ -33,6 +33,7 @@ python tambahbuku.py
 ```
 <br />
 2. Buka sistem peminjaman: <br />
+
 ```
 python play.py
 ```
