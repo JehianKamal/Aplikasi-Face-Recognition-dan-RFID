@@ -28,14 +28,14 @@ Aplikasi ini merupakan sistem peminjaman buku pada perpustakaan menggunakan Face
 
 ### Cara menggunakan:<br />
 1. Tambah data buku:<br />
-'''
+```
 python tambahbuku.py
-'''
+```
 <br />
 2. Buka sistem peminjaman: <br />
-'''
+```
 python play.py
-'''
+```
 <br />
 <br />
 <br />
