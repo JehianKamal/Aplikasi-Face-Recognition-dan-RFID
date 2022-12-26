@@ -22,7 +22,7 @@ def insertOrUpdate(Id, Name):
         
 
 id = input('Masukkan ID')
-name= input('Masukkan Nama')
+name= input('Insert name')
 insertOrUpdate(id, name)
 sampleNum=0;
 
